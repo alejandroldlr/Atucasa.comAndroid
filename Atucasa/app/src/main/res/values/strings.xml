@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Atucasa.com</string>
+    <string name="action_settings">Settings</string>
+    <string name="strEmail">Correo electrónico</string>
+    <string name="strPassword">Contraseña</string>
+    <string name="strLogin">Ingresar</string>
+    <string name="strRegister">Registrar</string>
+    <string name="strContinue">Continuar</string>
+
+    <string name="title_activity_delivery_adress">Dirección de Entrega</string>
+    <string name="title_activity_user_register">Registro de Usuario</string>
+    <string name="title_activity_delivery_address">Entregar en</string>
+
+    <string name="strStreet">Calle/Avenida</string>
+    <string name="strNro">#</string>
+    <string name="strBeetwen">Entre</string>
+    <string name="strStreetNro">Nro.casa</string>
+    <string name="strStreetRef1">Calle referencia 1</string>
+    <string name="strAnd">y</string>
+    <string name="strStreetRef2">Calle referencia 2</string>
+    <string name="strBuilding">Edificio, Piso, Departamento/Oficina</string>
+    <string name="strPhoneNumber">Teléfono referencia</string>
+    <string name="strSave">Guardar</string>
+    <string name="strAddressList">Lista Dir.</string>
+    <string name="title_activity_address_list">Direcciones</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_restaurant_menu">Atucasa.com</string>
+    <string name="title_address_map">Entregar en</string>
+
+</resources>

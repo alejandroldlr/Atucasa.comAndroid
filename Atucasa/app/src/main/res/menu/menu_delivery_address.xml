@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.ssi.atucasa.DeliveryAddress">
+
+    <item android:id="@+id/action_mapAddress"
+        android:visible="true"
+        android:icon="@drawable/ic_action_place"
+        android:title="Map"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_goAddressList"
+        android:visible="true"
+        android:icon="@drawable/ic_action_view_as_list"
+        android:title="Address List"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_goSaveAddress"
+        android:visible="true"
+        android:icon="@drawable/ic_action_save"
+        android:title="Save"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_logout"
+        android:visible="true"
+        android:title="Salir"
+        android:orderInCategory="20"
+        app:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".RestaurantList">
+
+    <item android:id="@+id/action_logoutRestList"
+        android:visible="true"
+        android:title="Salir"
+        android:orderInCategory="20"
+        app:showAsAction="never"/>
+</menu>
